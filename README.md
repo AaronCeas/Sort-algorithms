@@ -1,20 +1,22 @@
-# Raffle & Selection Algorithms: Mathematical Representation & Implementation
+\# Algoritmos de Sorteo y Selección
 
-A comprehensive, modular repository dedicated to exploring, implementing, and mathematically documenting various raffle systems and random selection algorithms. This project serves as a daily development challenge to maintain coding consistency while deepening knowledge in discrete mathematics, probability theory, and algorithmic complexity.
 
-##  Key Features
 
-* **Rigorous Mathematics:** Every algorithm is paired with its formal probability mass function (PMF), expected value analysis, and boundary conditions using LaTeX formatting.
-* **Modular Codebase:** Implementations are structured to be clean, self-contained, and highly reusable.
-* **Comprehensive Documentation:** Theoretical explanations that bridge the gap between pure mathematics and practical software development.
+Este proyecto está diseñado para explorar, documentar y representar matemáticamente diferentes tipos de sorteos y métodos de selección aleatoria.
 
-##  Algorithms Covered
 
-1. **Simple Random Selection (Equiprobable):** Discrete uniform distribution models where every element has an equal probability of $P(X = e_i) = \frac{1}{n}$.
-2. **Weighted Selection (Biased Raffles):** Implementation of non-uniform distributions where elements hold independent weights, utilizing cumulative distribution functions (CDF) and fitness-proportionate selection.
-3. **Gradual Elimination (Tournament/Knockout Style):** Stochastic elimination processes modeled through multi-stage conditional probabilities.
 
-##  Tech Stack & Concepts
+\##  Contenido del Proyecto
 
-* **Languages:** Python / JavaScript
-* **Core Concepts:** Probability Theory, Combinatorics, Computational Complexity ($O$ notation), Pseudorandom Number Generators (PRNG).
+\* \*\*Sorteo Simple (Equiprobable)\*\*
+
+\* \*\*Sorteo Ponderado (Por pesos/probabilidades)\*\*
+
+\* \*\*Sorteo por Eliminación Gradual\*\*
+
+
+
+\##  Representación Matemática
+
+Cada algoritmo cuenta con su respectiva demostración de funciones de masa de probabilidad (PMF) y análisis de complejidad.
+
